@@ -174,7 +174,7 @@
 - 阅读 facial keypoint [小项目](https://github.com/udacity/P1_Facial_Keypoints)
 - [参考代码](https://github.com/L1aoXingyu/P1_Facial_Keypoints)
 
-4. 作业
+- [x]4. 作业
 - 思考一下卷积神经网络对比传统神经网络的优势在哪里？为什么更适合处理图像问题，知识圈打卡上传
 - 完成 assignment2 中 `FullyConnectedNets.ipynb`
 - 作业详解：[FullyConnectedNets1.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/FullyConnectedNets1.md)
@@ -195,7 +195,7 @@
 - [x] 3. 总结回顾和理解深度学习中 normalize 的技巧
 - 阅读文章 [深度学习中的 normalization 方法](https://zhuanlan.zhihu.com/p/33173246)
 
-4. 作业
+- [x] 4. 作业
 - 完成 assignment2 中 `BatchNormalization.ipynb`
 - 完成 assignment2 中 `Dropout.ipynb`
 - 作业详解：[BatchNormalization.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/BatchNormalization.md)
