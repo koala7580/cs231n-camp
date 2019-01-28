@@ -258,11 +258,11 @@
 
 
 ### Week10
-1. 学习计算机视觉中的语义分割问题
+- [x] 1. 学习计算机视觉中的语义分割问题
 - slides: [lecture11](https://github.com/sharedeeply/cs231n-camp/tree/master/slides/cs231n_2018_lecture11.pdf)
 - 观看视频 p24
 
-2. 学习计算机视觉中的目标检测问题 
+- [x] 2. 学习计算机视觉中的目标检测问题 
 - slides: [lecture11](https://github.com/sharedeeply/cs231n-camp/tree/master/slides/cs231n_2018_lecture11.pdf)
 - 观看视频 p25 和 p26
 
