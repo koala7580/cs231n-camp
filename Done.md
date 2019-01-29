@@ -250,7 +250,7 @@
 - [x] 3. 更深入的理解循环神经网络的内部原理
 - 学习blog [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), [中文版本](https://www.jianshu.com/p/9dc9f41f0b29)
 
-4. 作业
+- [x] 4. 作业
 - 完成 assignment3 中的 `RNN_Captioning.ipynb` 
 - 完成 assignment3 中的 `LSTM_Captioning.ipynb` 
 - 完成 coco 数据集上的 [image caption 小项目](https://github.com/udacity/CVND---Image-Captioning-Project)，[参考代码](https://github.com/L1aoXingyu/image-caption-project)
@@ -266,7 +266,7 @@
 - slides: [lecture11](https://github.com/sharedeeply/cs231n-camp/tree/master/slides/cs231n_2018_lecture11.pdf)
 - 观看视频 p25 和 p26
 
-3. 了解目标检测中的常见算法
+- [x] 3. 了解目标检测中的常见算法
 - 学习目标检测的[笔记](https://blog.csdn.net/v_JULY_v/article/details/80170182#commentBox)
 
 4. 作业
