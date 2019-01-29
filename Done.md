@@ -208,7 +208,7 @@
 - 观看视频 p16, p17 和 p18
 - 学习[神经网络笔记3](https://zhuanlan.zhihu.com/p/21741716?refer=intelligentunit)
 
-2. 了解第二次的 kaggle 比赛 cifar10 分类
+- [x] 2. 了解第二次的 kaggle 比赛 cifar10 分类
 - 报名 cifar10 [比赛](https://www.kaggle.com/c/cifar-10)
 - 学习[模板代码](https://github.com/L1aoXingyu/kaggle-cifar10)
 
@@ -232,7 +232,7 @@
 - [x] 3. 理解卷积神经网络的最新进展
 - 学习笔记[变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作](https://zhuanlan.zhihu.com/p/28749411)
 
-4. 作业  
+- [x] 4. 作业  
 - 完成 assignment2 中的 `PyTorch.ipynb` 
 - 学习[模板代码](https://github.com/L1aoXingyu/kaggle-plant-seeding), 尝试更大的网络结构完成 kaggle 比赛[种子类型识别](https://www.kaggle.com/c/plant-seedlings-classification)的比赛，在知识圈上提交 kaggle 成绩
 - 作业详解：[Pytorch.md](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment2/PyTorch.md)
